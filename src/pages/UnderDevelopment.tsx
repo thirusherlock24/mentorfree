@@ -8,7 +8,7 @@ const HomePage: React.FC = () => {
         Welcome to <span className="text-blue-600">Mentor Free</span>
       </h1>
       <h1 className="text-3xl font-extrabold text-red-800 mb-6">
-        🚧 Site Under Development 🚧
+         Site Under Development 
       </h1>
       <p className="text-lg text-gray-600 max-w-3xl mb-8">
         Connecting mentors with mentees through a decentralized network. Empowering individuals to achieve their dreams with guidance, mentorship, and community support.
