@@ -3,8 +3,6 @@ import React from 'react';
 const Contributors: React.FC = () => {
   const contributors = [
     { name: 'Thirunavukarasu L', role: 'Full Stack Developer' },
-    { name: 'Barath', role: 'Full Stack Developer' },
-    { name: 'Sanjeev', role: 'Full Stack Developer' },
     { name: 'Yasaswini', role: 'Research and Development' },
   ];
 
